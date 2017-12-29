@@ -13,4 +13,4 @@ function vowelCount(vowel) { // here boktrita is perameter, it can be changed ti
 console.log(vowelCount("agami eid er por andolon hobe")); // now calling the function and put the input replacing perameterof the function
 // now you can use this function anywhere of your script
 
-// N.B: please try to find how many consonant in a sentence
+// N.B: please try to find how many consonant in a sentence.
