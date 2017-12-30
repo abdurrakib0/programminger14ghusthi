@@ -1,3 +1,5 @@
+// Youtube tutorial link of this script: https://youtu.be/EG2VEjO3AT0
+
 function getInitials(name) {
   var parts = name.split(' '); // it will spilit the whole string where it will find ' ' that means space, then will save it to the parts
   console.log(parts) // here we can see what the spilit method has done
